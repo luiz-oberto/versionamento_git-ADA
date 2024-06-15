@@ -5,6 +5,7 @@
 * comando git push
 * comando git pull
 
+* comando git fetch
 <!-- Fim do Exemplo -->
 
 ## o que fazer após o commit
