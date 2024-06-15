@@ -13,3 +13,4 @@
 
 ## .gitignore
 - O git ignore é aonde vamos adicionar o nome dos arquivos ou padrões para que o git ignore o rastreamento desses arquivos
+- podemos criar esse arquivo na nossa máquina local e dar um commit para nosso repositório, lembrando que estamos na branch testing
