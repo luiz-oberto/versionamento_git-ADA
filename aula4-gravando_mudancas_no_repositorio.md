@@ -13,4 +13,5 @@
 ### Staged (S)
 - Preparado pra dar o commit, ou seja, mandar as modificações para o repositório
 
-### Untracked
+### Untracked (U)
+- O estado Untracked já ocorre para quando o arquivo que voce criou ainda não foi commitado (commit) nem chegou ao estado Staged
