@@ -9,7 +9,7 @@
 - dei o comando "git add 'nome_do_arquivo'" para subir pra área de staged
 
 ## Git diff
-- para saber o que foi mmodificado a partir deste ponto você precisa dar o comando 'git diff --staged'
+- para saber o que foi modificado a partir deste ponto você precisa dar o comando 'git diff --staged'
 
 ## git commit
 - Este comando vai preparar o arquivo para subir para o seu repositório no github
